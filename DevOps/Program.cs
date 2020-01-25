@@ -11,20 +11,7 @@ namespace DevOps
     {
         static void Main(string[] args)
         {
-            int firstNumber;
-            Console.WriteLine("Enter first number: ");
-            firstNumber = Convert.ToInt32(Console.ReadLine());
-
-            int secondNumber;
-            Console.WriteLine("Enter second number: ");
-            secondNumber = Convert.ToInt32(Console.ReadLine());
-
-            int result = firstNumber + secondNumber;
-            Console.WriteLine("Result is: " + result);
-            Thread.Sleep(1000);
-            Thread.Sleep(1000);
-
-            // added comment to break application
+            Addition.AdditionalTwoNumbers();
         }
     }
 }

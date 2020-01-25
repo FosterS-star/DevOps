@@ -5,3 +5,10 @@ C:\Users\Lenovo E540\source\repos\DevOps\DevOps\obj\Debug\DevOps.csprojAssemblyR
 C:\Users\Lenovo E540\source\repos\DevOps\DevOps\obj\Debug\DevOps.csproj.CoreCompileInputs.cache
 C:\Users\Lenovo E540\source\repos\DevOps\DevOps\obj\Debug\DevOps.exe
 C:\Users\Lenovo E540\source\repos\DevOps\DevOps\obj\Debug\DevOps.pdb
+C:\Users\Lenovo E540\Desktop\DevOps\DevOps\obj\Debug\DevOps.csprojAssemblyReference.cache
+C:\Users\Lenovo E540\Desktop\DevOps\DevOps\obj\Debug\DevOps.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo E540\Desktop\DevOps\DevOps\obj\Debug\DevOps.exe
+C:\Users\Lenovo E540\Desktop\DevOps\DevOps\obj\Debug\DevOps.pdb
+C:\Users\Lenovo E540\Desktop\DevOps\DevOps\bin\Debug\DevOps.exe.config
+C:\Users\Lenovo E540\Desktop\DevOps\DevOps\bin\Debug\DevOps.exe
+C:\Users\Lenovo E540\Desktop\DevOps\DevOps\bin\Debug\DevOps.pdb
