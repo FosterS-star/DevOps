@@ -11,13 +11,19 @@ namespace DevOps.Tests
     [TestClass()]
     public class AdditionTests
     {
-        
 
-        
+
+
         [TestMethod()]
         public void AdditionalTwoNumbersTest()
         {
-            Assert.AreEqual(3+5,8);
+            Assert.AreEqual(3 + 5, 8);
+        }
+
+        [TestMethod()]
+        public void SubtractTwoNumbersTest()
+        {
+            Assert.AreEqual(7-2, 5);
         }
     }
 }
