@@ -12,8 +12,6 @@ namespace DevOps.Tests
     public class AdditionTests
     {
 
-        //new comment
-
         [TestMethod()]
         public void AdditionalTwoNumbersTest()
         {
