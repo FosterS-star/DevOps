@@ -17,7 +17,7 @@ namespace DevOps.Tests
         [TestMethod()]
         public void AdditionalTwoNumbersTest()
         {
-            Assert.AreEqual(3 + 4, 8);
+            Assert.AreEqual(3 + 5, 8);
         }
 
         [TestMethod()]
