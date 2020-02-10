@@ -21,7 +21,7 @@ namespace DevOps.Tests
         [TestMethod()]
         public void SubtractTwoNumbersTest()
         {
-            Assert.AreEqual(7-2, 5);
+            Assert.AreEqual(7-3, 5);
         }
     }
 }
