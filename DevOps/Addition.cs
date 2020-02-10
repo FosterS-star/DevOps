@@ -21,7 +21,7 @@ namespace DevOps
 
             int result = firstNumber + secondNumber;
             Console.WriteLine("Result is: " + result);
-            Thread.Sleep(1000)
+            Thread.Sleep(1000);
            // Thread.Sleep(1000);
 
         }       // added comment to break application
